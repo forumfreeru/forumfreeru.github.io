@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Группы
+title: Управление
 permalink: /admins/
 ---
 # Администрация форума
