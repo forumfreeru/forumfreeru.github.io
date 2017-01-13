@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Admins
+title: Группы
 permalink: /admins/
 ---
 Администрация
