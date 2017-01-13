@@ -1,0 +1,4 @@
+title: Описание форума "Форум Свободной России"
+# Build settings
+markdown: kramdown
+theme: minima
