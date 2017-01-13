@@ -1,3 +1,5 @@
+site:
+  lang: "ru"
 title: Описание форума "Форум Свободной России"
 # Build settings
 markdown: kramdown
