@@ -1,6 +1,7 @@
-site:
-  lang: "ru"
 title: Описание форума "Форум Свободной России"
+author: forumfreeru
 # Build settings
 markdown: kramdown
 theme: minima
+site:
+  lang: "ru"
